@@ -1,2 +1,3 @@
 # GitHubTest
-getting started with git
+
+its just a basic understanding of git and github
